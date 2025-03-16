@@ -40,74 +40,24 @@ This Project is for beginners and will teach you how to analyze the music playli
 
 ## 🔎 Key Findings
 
-- The total earnings amount to ₹6,365,000.
-- total enrolled courses are 1,224.
-- Total Sales by Sales Group.
-- Register Courses by Month
-- Skill Levels Fees By Sales Team
-  
-#### Revenue Trends (Total Earnings by Month):
 
- - Highest earning month: October (₹1,450,000).
- - Lowest earning month: April (₹21,000).
- - Average monthly earnings: ₹530,417.
-
-#### Marketing Effectiveness (Marketing by Division):
-
- - Top-performing marketing channels:
- - Television Ads (₹1,845,000)
- - Facebook Page (₹1,335,000)
- - Company Website (₹1,026,000)
- - Least effective channel: YouTube Channel (₹351,000).
-
-#### Sales Performance (Total Sales by Sales Group):
-
- - Top-performing salespersons:
- - Jordan: ₹2,154,000
- - Johnson: ₹2,034,000
- - Lowest performer: Taylor (₹1,097,000).
-
-#### Course Registration Trends (Registered Courses by Month):
-
- - Highest enrollments: October (277 registrations).
- - Lowest enrollments: March (28 registrations).
-
-#### Skill Level Analysis (Skill Level Fees by Sales Team):
-
- - Highest revenue-generating skill level: KII. L4 (₹1,321,000)
- - Lowest revenue-generating skill level: Pre. L8 (₹425,000)
 
    
 
 ## 💡Recommendations
 
-- Increase investment in Television Ads and Facebook Page Marketing to maximize revenue.
-- Improve sales training and strategies for underperforming team members (Taylor & Morgan).
-- Focus on offering discounts or marketing campaigns in low-performing months (March-April).
-- Promote high-revenue skill levels (KII. L4, Fdn. L5) more aggressively to drive profits.
-- Expand marketing efforts in high-performing locations (A101, A201) to sustain growth.
 
 
 
 
-
-## Project Presentation
-Pending...
-
-### Slides
 `The detailed presentation slides for this project can be found`
 
 
 ## 🧠 Project Learnings
 1. Data Loading and Transformations.
-2. Pivot Table Analysis.
-3. Data Visualization.
-4. Conditional Column.
-5. Importance of Data Quality.
-6. Data Storytelling.
+5. Importance of  Multiple Data.
 7. Sharpened Analytical and Problem-Solving Abilities.
 8. Strengthened Strategic Planning and Presentation Skill.
-9. Enhanced Communication Skills.
 
 
 ## 📈 Dashboard
