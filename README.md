@@ -35,7 +35,7 @@ This Project is for beginners and will teach you how to analyze the music playli
 - **Data source:** Internet
 - **Data size:** (1,224 rows and 12 columns.)
 - **Key columns:** Billing Month, Marketing Platform, MK Campaign, Location Code, Registered Courses, Learning Programs, Skill Levels, Average Call Time, Payment Status, Fees Collected, Sales Group, Advisor
-- **Data set Link:** ([Marketing & Sales Performance Data](https://github.com/anandshaw123/Marketing-Sales-Performance-Dashboard/blob/main/Marketing%20%26%20Sales%20Performance%20Data%20(1).xlsx))
+- **Data set Link:** ??
 
 
 
