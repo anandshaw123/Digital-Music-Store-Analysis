@@ -24,18 +24,15 @@ This Project is for beginners and will teach you how to analyze the music playli
 
 
 
+
+
+
 ## 🛠️ Tools Used
 
-- **Analytical & Visual:** Microsoft Excel
+- Sql
 
 
 
-## 📅 Dataset Overview
-
-- **Data source:** Internet
-- **Data size:** (1,224 rows and 12 columns.)
-- **Key columns:** Billing Month, Marketing Platform, MK Campaign, Location Code, Registered Courses, Learning Programs, Skill Levels, Average Call Time, Payment Status, Fees Collected, Sales Group, Advisor
-- **Data set Link:** ??
 
 
 
