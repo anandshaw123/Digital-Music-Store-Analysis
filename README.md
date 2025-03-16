@@ -61,11 +61,6 @@ This Project is for beginners and will teach you how to analyze the music playli
 8. Strengthened Strategic Planning and Presentation Skill.
 
 
-## 📈 Dashboard
-
-
-![Marketing Sales Performance](https://github.com/user-attachments/assets/8b5980b5-3ac4-4f0f-9d6c-4578592778f0)
-
 
 
 
