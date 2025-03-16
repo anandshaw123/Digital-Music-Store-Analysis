@@ -2,7 +2,7 @@
 
 ###### **Why we are Doing This Project**
 
-**Digital Music Store Analysis** means analyzing the data of an online music store. This involves examining which songs are selling the most, which artists or genres are popular, customer purchasing behavior, and how sales and revenue can be increased.
+<!-- **Digital Music Store Analysis** means analyzing the data of an online music store. This involves examining which songs are selling the most, which artists or genres are popular, customer purchasing behavior, and how sales and revenue can be increased.-->
 
 
 
