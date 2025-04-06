@@ -11,7 +11,7 @@
 
 
 ## ❓Problem Statement:
-The objective of this analysis is to examine the sales data of an online digital music store to gain insights into customer purchasing behavior, popular songs, top-performing artists, and trending music genres. By identifying key sales patterns, the analysis aims to uncover strategies to increase revenue and optimize the store’s music offerings.
+Examine the sales data of an online digital music store to gain insights into customer purchasing behavior, popular songs, top-performing artists, and trending music genres. By identifying key sales patterns, the analysis aims to uncover strategies to increase revenue and optimize the store’s music offerings.
 
 
 
