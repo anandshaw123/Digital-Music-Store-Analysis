@@ -29,7 +29,7 @@ This Project is for beginners and will teach you how to analyze the music playli
 
 ## 🛠️ Tools Used
 
-- Sql
+- Sql  <img width="96" height="96" src="https://img.icons8.com/color/144/sql.png" alt="SQL Icon"/>
 
 
 
